@@ -30,3 +30,6 @@ sorted in ascending order.
 
 1 2 2 3 3
 
+---
+## quick_sort.cpp
+First verson to solve the question by quick sort, but time limit exceeded
