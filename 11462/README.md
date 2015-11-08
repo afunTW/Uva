@@ -31,5 +31,8 @@ sorted in ascending order.
 1 2 2 3 3
 
 ---
-## quick_sort.cpp
+## quick_sort.cpp(1.6 kb)
 First verson to solve the question by quick sort, but time limit exceeded
+
+## Uva_11462.cpp(320 bytes)
+Simple code by standard sort, but passed (0.502 sec)
