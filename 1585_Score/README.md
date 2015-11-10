@@ -42,6 +42,8 @@ OOOOXOOOOXOOOOX
 55
 
 30
+
 ---
+
 ## Uva_1185.cpp
 Be careful to use cin.getline by this case: http://stackoverflow.com/questions/10553597/cin-and-getline-skipping-input
