@@ -45,5 +45,9 @@ OOOOXOOOOXOOOOX
 
 ---
 
-## Uva_1185.cpp
-Be careful to use cin.getline by this case: http://stackoverflow.com/questions/10553597/cin-and-getline-skipping-input
+## Uva_1185.cpp (476 bytes)
+if you use cin.getline(), careful to use cin.getline by this case: http://stackoverflow.com/questions/10553597/cin-and-getline-skipping-input
+
+But it seems get wrong answer if you use cin.getline or while(scanf() != EOF), so I use string here.
+
+Pass in 0.000 sec
