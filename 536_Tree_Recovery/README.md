@@ -3,6 +3,8 @@
 Little Valentine liked playing with binary trees very much. Her favorite game was constructing randomly looking binary trees with capital letters in the nodes.
 This is an example of one of her creations:
 
+![default](https://cloud.githubusercontent.com/assets/4820492/12269962/cd26dd04-b98e-11e5-8f21-e8d90aa13444.png)
+
 To record her trees for future generations, she wrote down two strings for each tree: a preorder traversal (root, left subtree, right subtree) and an inorder traversal (left subtree, root, right subtree).
 
 For the tree drawn above the preorder traversal is `DBACEGF` and the inorder traversal is `ABCDEFG`.
