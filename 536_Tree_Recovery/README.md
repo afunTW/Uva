@@ -38,3 +38,10 @@ BCAD CBAD
 ACBFGED
 
 CDAB
+
+---
+
+## Uva_536.cpp
+
+Recursively get the root in postorder rather than build the tree and print it in postorder.
+Pass in 0.000 sec
