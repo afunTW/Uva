@@ -29,3 +29,10 @@ The output of the program shall indicate, for each input number, if it is a mult
 9 is a multiple of 9 and has 9-degree 1.
 
 9999999999999999999999999999998 is not a multiple of 9.
+
+---
+
+## Uva_10922.cpp
+
+Simple question, you can try to use stringstream in this question.
+Pass in 0.032 s.
